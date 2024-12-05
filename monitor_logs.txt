@@ -1,0 +1,48 @@
+2024-11-17 21:39:15,120 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-17 21:39:15,121 - [33mPress CTRL+C to quit[0m
+2024-11-17 21:39:15,125 -  * Restarting with stat
+2024-11-17 21:39:15,870 -  * Debugger is active!
+2024-11-17 21:39:15,883 -  * Debugger PIN: 317-819-329
+2024-11-22 22:49:16,888 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 22:49:16,888 - [33mPress CTRL+C to quit[0m
+2024-11-22 22:49:16,892 -  * Restarting with stat
+2024-11-22 22:49:17,599 -  * Debugger is active!
+2024-11-22 22:49:17,617 -  * Debugger PIN: 317-819-329
+2024-11-23 08:39:51,616 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 08:39:51,618 - [33mPress CTRL+C to quit[0m
+2024-11-23 08:39:51,621 -  * Restarting with stat
+2024-11-23 08:39:52,356 -  * Debugger is active!
+2024-11-23 08:39:52,361 -  * Debugger PIN: 317-819-329
+2024-11-23 08:40:36,402 - Request Details: Method=GET, URL=http://127.0.0.1:5000/, Status=200, Response Time=0.14 ms
+2024-11-23 08:40:36,405 - 127.0.0.1 - - [23/Nov/2024 08:40:36] "GET / HTTP/1.1" 200 -
+2024-11-23 08:40:36,506 - Request Details: Method=GET, URL=http://127.0.0.1:5000/favicon.ico, Status=404, Response Time=0.59 ms
+2024-11-23 08:40:36,507 - 127.0.0.1 - - [23/Nov/2024 08:40:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-23 08:40:39,678 - CPU Usage: 48.6%, Memory Usage: 62.8%
+2024-11-23 08:40:39,678 - Request Details: Method=GET, URL=http://127.0.0.1:5000/metrics, Status=200, Response Time=1013.56 ms
+2024-11-23 08:40:39,679 - 127.0.0.1 - - [23/Nov/2024 08:40:39] "GET /metrics HTTP/1.1" 200 -
+2024-11-23 08:40:45,962 - Request Details: Method=GET, URL=http://127.0.0.1:5000/stats, Status=200, Response Time=0.12 ms
+2024-11-23 08:40:45,963 - 127.0.0.1 - - [23/Nov/2024 08:40:45] "GET /stats HTTP/1.1" 200 -
+2024-11-23 08:40:54,580 - Request Details: Method=GET, URL=http://127.0.0.1:5000/stats, Status=200, Response Time=0.18 ms
+2024-11-23 08:40:54,580 - 127.0.0.1 - - [23/Nov/2024 08:40:54] "GET /stats HTTP/1.1" 200 -
+2024-11-23 08:40:55,711 - Request Details: Method=GET, URL=http://127.0.0.1:5000/stats, Status=200, Response Time=0.14 ms
+2024-11-23 08:40:55,711 - 127.0.0.1 - - [23/Nov/2024 08:40:55] "GET /stats HTTP/1.1" 200 -
+2024-11-23 08:40:56,626 - Request Details: Method=GET, URL=http://127.0.0.1:5000/stats, Status=200, Response Time=0.18 ms
+2024-11-23 08:40:56,626 - 127.0.0.1 - - [23/Nov/2024 08:40:56] "GET /stats HTTP/1.1" 200 -
+2024-11-23 08:41:19,183 - CPU Usage: 26.8%, Memory Usage: 61.0%
+2024-11-23 08:41:19,186 - Request Details: Method=GET, URL=http://127.0.0.1:5000/metrics, Status=200, Response Time=1008.9 ms
+2024-11-23 08:41:19,186 - 127.0.0.1 - - [23/Nov/2024 08:41:19] "GET /metrics HTTP/1.1" 200 -
+2024-11-23 08:56:37,243 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 08:56:37,243 - [33mPress CTRL+C to quit[0m
+2024-11-23 08:56:37,245 -  * Restarting with stat
+2024-11-23 08:56:37,764 -  * Debugger is active!
+2024-11-23 08:56:37,769 -  * Debugger PIN: 317-819-329
+2024-11-23 16:05:35,036 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 16:05:35,037 - [33mPress CTRL+C to quit[0m
+2024-11-23 16:05:35,039 -  * Restarting with stat
+2024-11-23 16:05:35,728 -  * Debugger is active!
+2024-11-23 16:05:35,738 -  * Debugger PIN: 317-819-329
